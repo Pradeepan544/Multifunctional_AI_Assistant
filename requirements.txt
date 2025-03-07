@@ -1,0 +1,14 @@
+pandas
+spacy
+pypdf
+nltk
+streamlit
+python-dotenv
+chromadb
+sentence-transformers
+llm-abstraction
+google-generativeai
+mistralai
+
+'''run this after pip installing all the above'''
+# python -m spacy download en_core_web_sm
